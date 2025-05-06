@@ -19,6 +19,10 @@
 - SEO Optimized Frontend Static Site
 - Open Source Responsive UI Design Project
 
+##screenshot
+
+![Frame 1](https://github.com/user-attachments/assets/f79d7519-9bc3-4370-ae69-69e2c94ed0ed)
+inspired from :https://www.figma.com/design/UVexmOMx3cCFaFFHCLqcDl/Frontend-Developer---Interview-Assignment--1---1---Community-?node-id=146-105&t=92ZWPngLJRYuArL2-0
 
 ---
 
