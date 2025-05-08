@@ -4,10 +4,6 @@
 
 ---
 
-## 🚀 Trending Keywords (SEO Optimized)
-
-> _Boost visibility with these trending search keywords:_
-
 - HTML CSS Bootstrap Frontend Project
 - Responsive Web Design Practice
 - Bootstrap 5 UI Components Example
@@ -22,18 +18,36 @@
 
 screenshot
 
+hero section
 ![Frame 1](https://github.com/user-attachments/assets/f79d7519-9bc3-4370-ae69-69e2c94ed0ed)
-inspired from :https://www.figma.com/design/UVexmOMx3cCFaFFHCLqcDl/Frontend-Developer---Interview-Assignment--1---1---Community-?node-id=146-105&t=92ZWPngLJRYuArL2-0
+--------------------------------------------------------------------------------------------------
+service section:
+![service section](https://github.com/user-attachments/assets/fc2cd86e-1697-40e6-bcdb-2f5603c70e49)
+--------------------------------------------------------------------------------------------------
+Team section:
+image slider with dragablecorsole.
+![Team sections](https://github.com/user-attachments/assets/a72eb660-2461-426b-a570-c0e812e226a3)
+--------------------------------------------------------------------------------------------------
+new comers :
+form that take true value only if false then throw error 
+![New comers](https://github.com/user-attachments/assets/b2fb1735-911b-4508-9392-363885833e91)
+--------------------------------------------------------------------------------------------------
+footer :
+responsive footer
+![footers](https://github.com/user-attachments/assets/f571a603-1173-4716-83ce-70305a9400fd)
+
+| inspired from |:https://www.figma.com/design/UVexmOMx3cCFaFFHCLqcDl/Frontend-Developer---Interview-Assignment--1---1---Community-?node-id=146-105&t=92ZWPngLJRYuArL2-0|
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology     | Description                        |
-|----------------|------------------------------------|
-| **HTML5**      | Semantic structure and content     |
-| **CSS3**       | Custom styling and layout tweaks   |
-| **Bootstrap 5**| Responsive UI components & grid    |
+| Technology        | Description                        |
+|----------------   |------------------------------------|
+| inspired figma:   | https://www.figma.com/design/UVexmOMx3cCFaFFHCLqcDl/Frontend-Developer---Interview-Assignment--1---1---Community-?node-id=0-26&t=VmEbgLUABYMOdQDb-1    |
+| **HTML5**         | Semantic structure and content     |
+| **CSS3**          | Custom styling and layout tweaks   |
+| **Bootstrap 5**   | Responsive UI components & grid    |
 
 ---
 
