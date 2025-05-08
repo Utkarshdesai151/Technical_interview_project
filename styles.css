@@ -157,6 +157,8 @@ a {
   .col-md-6 {
     width: 100%;
     max-width: 100%;
+    margin-bottom: 22px;
+    justify-content: center;
   }
 
   .text-center {
@@ -343,6 +345,9 @@ a {
 
   .cards-main {
     margin-top: 80px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 34px;
   }
 
   .center-border-cards > div {
@@ -390,14 +395,14 @@ a {
   color: #7aa960;
 }
 
-.top-headers h1{
+.top-headers h1 {
   color: #252b42;
   letter-spacing: 0.1px;
   font: bold;
   width: 279;
 }
 
-.top-headers p{
+.top-headers p {
   width: 100%;
   line-height: 18px;
 }
@@ -406,18 +411,18 @@ a {
   width: 100%;
   margin: 112px auto;
   border-radius: 10px;
-  overflow: hidden; 
+  overflow: hidden;
   height: auto;
 }
 
-.splide__slide  {
+.splide__slide {
   width: 100%;
   display: block;
   height: auto;
 }
 
 .coursole .splide__slide {
-  padding: 0 10px; 
+  padding-right: 31px;
 }
 
 .splide__list {
@@ -429,7 +434,7 @@ a {
   background: white;
   border-radius: 18px;
   overflow: hidden;
-  box-shadow: 0 14px 18px rgba(0,0,0,0.10);
+  box-shadow: 15px 10px 13px rgba(0, 0, 0, 0.1);
   border: none;
 }
 
@@ -443,10 +448,223 @@ a {
 }
 
 .social-icon {
-  color: #96BB7C;
+  color: #96bb7c;
   font-size: 15px;
   margin: 0 8px; /* optional spacing between icons */
 }
-.social-icon i{
+.social-icon i {
   padding-right: 11px;
 }
+
+.splide__track {
+  height: 435px;
+}
+#image-carousel {
+  padding-right: 9px;
+}
+
+/* section 3 */
+
+.form-section {
+  height: 594px;
+  background: #fff2f3;
+}
+
+.NewsLetter {
+  padding-top: 160px;
+}
+.NewsLetter p {
+  color: #7aa960;
+  font-size: 20px;
+  font: bolder;
+  font-weight: bolder;
+}
+.NewsLetter h2 {
+  font-weight: bolder;
+  font-size: 28px;
+}
+.sub-titless {
+  width: 100%;
+  height: 40px;
+}
+.NewsLetter .sub-titless p {
+  font-weight: 400;
+  width: 463px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  font-size: 14px;
+  color: #737373;
+  font: regular;
+}
+form {
+  display: flex;
+  align-items: center;
+  margin-top: 80px;
+  width: 100%;
+  justify-content: center;
+}
+
+form input {
+  flex: 1;
+  height: 47px;
+  border: 1px solid rgba(91, 89, 89, 0.476);
+  padding: 9px;
+  max-width: 590px;
+}
+
+.buttons {
+  height: 47px;
+  padding: 0 16px;
+  background-color: #96bb7c;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+  .form-section {
+    height: auto;
+    padding: 40px 20px;
+  }
+
+  .NewsLetter {
+    padding-top: 80px;
+  }
+
+  .sub-titless {
+    height: auto;
+  }
+
+  .NewsLetter .sub-titless p {
+    width: 100%;
+    font-size: 13px;
+    padding: 0 10px;
+  }
+
+  form {
+    flex-direction: row;
+    align-items: stretch;
+    margin-top: 40px;
+  }
+
+  form input {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .buttons {
+    width: 21%;
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 478px) {
+  .buttons {
+    width: 21%;
+    font-size: 0.6rem;
+  }
+}
+
+footer {
+  background-color: #ffffff;
+  color: #737373;
+}
+
+footer h6 {
+  padding-bottom: 15px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.footer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-list li {
+  padding-top: 10px;
+}
+
+.footer-list a {
+  color: #737373;
+  text-decoration: none;
+  font-weight: 600;
+  display: block;
+  line-height: 1.5;
+  transition: color 0.3s;
+}
+
+.footer-list a:hover {
+  color: #000000;
+}
+
+@media (max-width: 768px) {
+  footer h6 {
+    font-size: 16px;
+  }
+
+  .footer-list a {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 576px) {
+  footer {
+    text-align: center;
+  }
+
+  .footer-list a {
+    font-size: 13px;
+  }
+
+  .footer-list li {
+    padding-top: 8px;
+  }
+}
+.footer-sub {
+  background-color: #fafafa;
+  padding: 20px 0;
+}
+
+.footer-sub p {
+  margin: 0;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
+.footer-socials {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding-top: 10px;
+}
+
+.footer-socials i {
+  font-size: 27px;
+  color: #96BB7C;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footer-sub p {
+    text-align: left;
+  }
+
+  .footer-socials {
+    padding-top: 0;
+  }
+}
+
