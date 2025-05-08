@@ -36,7 +36,6 @@ footer :
 responsive footer
 ![footers](https://github.com/user-attachments/assets/f571a603-1173-4716-83ce-70305a9400fd)
 
-| inspired from |:https://www.figma.com/design/UVexmOMx3cCFaFFHCLqcDl/Frontend-Developer---Interview-Assignment--1---1---Community-?node-id=146-105&t=92ZWPngLJRYuArL2-0|
 
 ---
 
